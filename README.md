@@ -2,7 +2,7 @@
 
 # Xerces 
 
-参考网站：http://xml.apache.org/xerces-c/ 
+参考网站：http://xerces.apache.org/index.html
 
 Xerces-C++ 是一个非常健壮的XML解析器，它提供了验证，以及SAX和DOM API。XML验证在文档类型定义(Document Type Definition，DTD)方面有很好的支持，并且在2001年12月增加了支持W3C XML Schema 的基本完整的开放标准。 
 
