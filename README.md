@@ -34,3 +34,7 @@ Xalan是一个用于把XML文档转换为HTML，纯文本或者其他XML类型�
 http://libxmlplusplus.sourceforge.net/ 
 
 libxml++是对著名的libxml XML解析器的C++封装版本 
+
+# msxml
+
+官方地址：http://msxml.softonic.cn/
